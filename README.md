@@ -12,4 +12,4 @@ hasta que pierdes todos los intentos.
 6. Clase Character y su metodo toLowerCase()  
 7. Estructura de control: condicional
 
-[link al canal de youtube](https://youtube.com/sergiecode)
+[link al canal de youtube](https://www.youtube.com/watch?v=BdNqW63ZaB0&t=11584s&ab_channel=SergieCode)
